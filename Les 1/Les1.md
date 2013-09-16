@@ -205,6 +205,8 @@ JavaScript in een pagina bekijken? Inspect element met de Webinspector. Debuggin
 **Opdracht 1.1: No jQuery**  
 In 2tallen: Noteer voor- en nadelen van jQuery (minimaal 5 van ieder)
 
+
+
 **Opdracht 1.2: Functionaliteiten jQuery**  
 Noem de belangrijkste functionaliteiten van jQuery (minimaal 5)
 
